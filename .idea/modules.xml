@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Spring Cloud Gateway/demo.iml" filepath="$PROJECT_DIR$/../Spring Cloud Gateway/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inventory-fail/inventory-fail.iml" filepath="$PROJECT_DIR$/inventory-fail/inventory-fail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mssc-beer-inventory-service/mssc-beer-inventory-service.iml" filepath="$PROJECT_DIR$/../mssc-beer-inventory-service/mssc-beer-inventory-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mssc-beer-order-service/mssc-beer-order-service.iml" filepath="$PROJECT_DIR$/../mssc-beer-order-service/mssc-beer-order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mssc-brewery-eureka-server/mssc-brewery-eureka-server.iml" filepath="$PROJECT_DIR$/../mssc-brewery-eureka-server/mssc-brewery-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../msss-beer-service/msss-beer-service.iml" filepath="$PROJECT_DIR$/../msss-beer-service/msss-beer-service.iml" />
+    </modules>
+  </component>
+</project>
