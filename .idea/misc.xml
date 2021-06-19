@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/../mssc-brewery-eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/../Spring Cloud Gateway/pom.xml" />
         <option value="$PROJECT_DIR$/inventory-fail/pom.xml" />
+        <option value="$PROJECT_DIR$/config-server/pom.xml" />
       </list>
     </option>
   </component>
